@@ -1,12 +1,12 @@
 # Vector Field Editor #
 An editor to edit vector fields. 
 
-Future features:
+#### Future features: ####
 - Simulation
 - Snapshoting the simulation state for vectorfield
 - Load other fileformats
 
-Dependencies:
+#### Dependencies: ####
     - GLFW:
         - ![GLFW 3](http://www.glfw.org/download.html)
     - GLEW:
