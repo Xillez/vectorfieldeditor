@@ -7,6 +7,6 @@ An editor to edit vector fields.
 - Load other fileformats
 
 #### Dependencies: ####
-    http://www.glfw.org/download.html
-    http://glew.sourceforge.net/
-    https://glm.g-truc.net/0.9.8/index.html
+- [GLFW](http://www.glfw.org/download.html)
+- [GLEW](http://glew.sourceforge.net/)
+- [GLM](https://glm.g-truc.net/0.9.8/index.html)
